@@ -1,4 +1,4 @@
-# Less Rails Bootstrap 3.0.0 [![Build Status](https://travis-ci.org/panlilu/less-rails-bootstrap-3.png?branch=master)](https://travis-ci.org/panlilu/less-rails-bootstrap-3)
+# Less Rails Bootstrap 3.0.0
 
 This fork is using bootstrap v3.0.0 [master]
 
